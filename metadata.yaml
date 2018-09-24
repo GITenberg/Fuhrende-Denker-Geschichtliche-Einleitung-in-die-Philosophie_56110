@@ -1,5 +1,8 @@
 _repo: Fuhrende-Denker-Geschichtliche-Einleitung-in-die-Philosophie_56110
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56110-h/images/cover.jpg
 creator:
   author:
     agent_name: Cohn, Jonas
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48675
     wikipedia: https://de.wikipedia.org/wiki/Jonas_Cohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56110#Fuhrende-Denker-Geschichtliche-Einleitung-in-die-Philosophie
 gutenberg_issued: '2017-12-03'
 gutenberg_type: Text
 identifiers:
